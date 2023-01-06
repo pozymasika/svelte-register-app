@@ -1,3 +1,5 @@
 {
-	"editor.fontSize": 22
+	"editor.fontSize": 18,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.wordWrapColumn": 70
 }

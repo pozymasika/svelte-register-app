@@ -20,5 +20,10 @@
 		"tailwindcss": "^3.2.4",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"bcrypt": "^5.1.0",
+		"sqlite": "^4.1.2",
+		"sqlite3": "^5.1.4"
+	}
 }
